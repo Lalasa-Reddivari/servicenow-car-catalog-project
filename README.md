@@ -1,2 +1,2 @@
 # servicenow-car-catalog-project
-ServiceNow project for showroom car catalog with approval workflow
+The Automated Car Catalog System is a ServiceNow-based application designed to streamline showroom management for automobile dealerships. This solution allows for efficient management of car inventories, customer queries, and showroom operations through a centralized, automated catalog system. It enables sales teams to track available vehicles, update inventory, and assist customers with real-time data – all within the ServiceNow platform.
